@@ -1,4 +1,4 @@
-# Customer Churn Predictor
+# ChurnShield Predictor
 
 ## Overview
 The Customer Churn Predictor is a machine learning project aimed at predicting whether customers are likely to discontinue using a company's services. By analyzing customer behavior and engagement, this tool helps businesses identify at-risk customers and take proactive measures to improve retention.
